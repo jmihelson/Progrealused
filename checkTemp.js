@@ -18,7 +18,7 @@ function checkTemp(a){
 }
     else if (a>40){
         console.log("liiga kuum")
-    return 0
+    return 1
     }
     else{
         console.log("paras")
