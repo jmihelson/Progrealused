@@ -33,7 +33,7 @@ var tellimus = {
     ]
 }
 
-letallprice = 0;
+let allprice = 0;
 
 for (let i = 0; i < tellimus.rows.length; i++) {
 
@@ -53,6 +53,6 @@ for (let i = 0; i < tellimus.rows.length; i++) {
 
 
 
-letkaibemaks = allPrice * 0.2;
+let kaibemaks = allprice * 0.2;
 
 console.log("tellimuse kogusumma on:", allPrice + kaibemaks)
