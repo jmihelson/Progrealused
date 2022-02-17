@@ -35,7 +35,7 @@ var tellimus = {
 
 letallprice = 0;
 
-for (leti = 0; i < tellimus.rows.length; i++) {
+for (let i = 0; i < tellimus.rows.length; i++) {
 
     console.log('Nimi:', tellimus.rows[i].name)
 
