@@ -53,6 +53,6 @@ for (leti = 0; i < tellimus.rows.length; i++) {
 
 
 
-letkaibemaks = allprice * 0.2;
+letkaibemaks = allPrice * 0.2;
 
-console.log("tellimuse kogusumma on:", allprice + kaibemaks)
+console.log("tellimuse kogusumma on:", allPrice + kaibemaks)
