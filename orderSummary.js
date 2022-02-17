@@ -55,4 +55,4 @@ for (let i = 0; i < tellimus.rows.length; i++) {
 
 let kaibemaks = allprice * 0.2;
 
-console.log("tellimuse kogusumma on:", allPrice + kaibemaks)
+console.log("tellimuse kogusumma on:", allprice + kaibemaks)
